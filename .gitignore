@@ -1,0 +1,6 @@
+node_modules
+# dist 目录下存放构建代码
+dist
+# coverage和.nyc_output存放测试生成的临时文件
+coverage
+.nyc_output
